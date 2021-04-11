@@ -1,5 +1,5 @@
 domain_name: ankiedos.github.io
-navigation:
+navbar:
   - index.md
   - test.md
   - another-page.md
