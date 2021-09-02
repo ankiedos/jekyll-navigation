@@ -1,4 +1,4 @@
-domain_name: ankiedos.github.io
+domain_name: ankiedos.github.io/jekyll-navigation/
 navbar:
   - index.md
   - test.md
